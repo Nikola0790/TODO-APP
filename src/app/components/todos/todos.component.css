@@ -1,0 +1,6 @@
+.todo.done .content {
+  text-decoration: line-through;
+}
+.content {
+  cursor: pointer;
+}
